@@ -1,6 +1,6 @@
 # Hi there, I'm Rahbar Zahid! 👋
 
-I'm an aspiring web developer passionate about creating engaging and user-friendly web experiences.
+I am passionate about exploring the dynamic and evolving landscape of computer science. With a strong foundation in programming and software development, I'm committed to staying updated on the latest industry trends and aspire to make a positive impact in the tech world. I am currently focused on MERN stack development, aiming to broaden my skill set. 
 
 ## About Me
 
