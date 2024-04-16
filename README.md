@@ -20,6 +20,6 @@ I am passionate about exploring the dynamic and evolving landscape of computer s
 
 <p align="left">
 <a href="https://linkedin.com/in/rahbar-zahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahbar-zahid" height="20" width="30" /></a>
-<a href="https://instagram.com/zahid_rahbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahid_rahbar" height="20" width="30" /></a>
+<a href="https://instagram.com/zahid_rahbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahbar-zahid-1441b3226" height="20" width="30" /></a>
 </p>
 
